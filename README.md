@@ -6,6 +6,9 @@ This repository contains:
 - CIFAR-10 / CIFAR-100 experiments
 - PV cybersecurity experients (drift, spike)
 
+Dataset can be found on:
+https://www.kaggle.com/datasets/yasmeenfozi/pv-dataset
+
 ## Project Structure
 
 ```
